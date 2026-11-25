@@ -52,9 +52,9 @@ Cada repositório representa mais um passo na minha evolução como desenvolvedo
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amandarst&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=midnight-purple&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandarst&layout=compact&theme=midnight-purple&hide_border=true)
 
 </div>
 
@@ -62,8 +62,6 @@ Cada repositório representa mais um passo na minha evolução como desenvolvedo
 
 <div align="center">
 
-### 🌷 Obrigada pela visita!
-
-*Um passo de cada vez, uma linha de código por dia.*
+### 🌷 Bye!
 
 </div>
