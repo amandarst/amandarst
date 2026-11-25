@@ -1,16 +1,71 @@
-## Hi there 👋
 
-<!--
-**amandarst/amandarst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Eu sou Amanda Santos 👋
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Estudante de Análise e Desenvolvimento de Sistemas
+
+*Transformando curiosidade em conhecimento e ideias em código.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A63D2?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_SEU_LINKEDIN_AQUI)
+[![GitHub](https://img.shields.io/badge/GitHub-6C4AB6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
+
+</div>
+
+---
+
+## ✨ Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha trajetória na área de tecnologia.
+
+Atualmente, estou em transição de carreira e direcionando meus estudos para o desenvolvimento de software.
+
+Gosto de aprender, explorar novas tecnologias e transformar cada desafio em uma oportunidade de crescimento.
+
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas.
+- 💻 Interessada em desenvolvimento Full Stack.
+- 🌱 Sempre aprendendo e desenvolvendo novos projetos.
+- 🚀 Em busca da minha primeira oportunidade na área de tecnologia.
+
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,linux,vscode&theme=light" />
+
+</div>
+
+## 📚 Atualmente estudando
+
+- Lógica de programação
+- HTML5 e CSS3
+- JavaScript
+- Python
+- SQL e banco de dados
+- Git e GitHub
+
+## 🚀 Meus projetos
+
+Aqui você encontrará projetos desenvolvidos durante meus estudos, desafios de programação e experiências práticas.
+
+Cada repositório representa mais um passo na minha evolução como desenvolvedora.
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=midnight-purple&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌷 Obrigada pela visita!
+
+*Um passo de cada vez, uma linha de código por dia.*
+
+</div>
