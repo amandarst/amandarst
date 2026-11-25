@@ -48,15 +48,6 @@ Aqui você encontrará projetos desenvolvidos durante meus estudos, desafios de 
 
 Cada repositório representa mais um passo na minha evolução como desenvolvedora.
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amandarst&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandarst&layout=compact&theme=midnight-purple&hide_border=true)
-
-</div>
 
 ---
 
