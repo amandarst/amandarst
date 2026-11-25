@@ -5,10 +5,8 @@
 
 ### 💻 Estudante de Análise e Desenvolvimento de Sistemas
 
-*Transformando curiosidade em conhecimento e ideias em código.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A63D2?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_SEU_LINKEDIN_AQUI)
-[![GitHub](https://img.shields.io/badge/GitHub-6C4AB6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8A63D2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amandasantos094/)
+[![GitHub](https://img.shields.io/badge/GitHub-6C4AB6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amandarst)
 
 </div>
 
@@ -40,8 +38,8 @@ Gosto de aprender, explorar novas tecnologias e transformar cada desafio em uma 
 - Lógica de programação
 - HTML5 e CSS3
 - JavaScript
+- Node
 - Python
-- SQL e banco de dados
 - Git e GitHub
 
 ## 🚀 Meus projetos
